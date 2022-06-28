@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iknow779
 - 🌱 I’m currently learning FrontEnd web developement
-- 💞️ I’m looking to collaborate on projects that will accept Junior with little professional experience
+- 👀 I’m looking to collaborate on projects that will accept Junior with little professional experience
 - 📫 How to reach me? I can be contacted trhough Telegram/Twitter/LinkedIn @iknow779
 
 <!---
